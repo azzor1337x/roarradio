@@ -8,7 +8,6 @@
 ![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
 ![MeTube](https://img.shields.io/badge/MeTube-YouTube_Downloader-critical?logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Static_Pages-orange?logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-Web_Server-brightgreen?logo=nginx&logoColor=white)
 ![Liquidsoap](https://img.shields.io/badge/Liquidsoap-v2.3.2-orange?logo=music&logoColor=white)
 ![Cloudflared](https://img.shields.io/badge/Cloudflared-Tunnel-blue?logo=cloudflare&logoColor=white)
