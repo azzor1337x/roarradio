@@ -1,16 +1,18 @@
+
 ![Nano](https://img.shields.io/badge/Nano-Text_Editor-lightgrey?logo=gnu&logoColor=white)
 ![Alpine](https://img.shields.io/badge/Alpine-Repository-0D597F?logo=alpinelinux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-installed-blue?logo=docker&logoColor=white)
-![Portainer](https://img.shields.io/badge/portainer-docker--ui-0db7ed?logo=portainer&logoColor=white)
-![Icecast2](https://img.shields.io/badge/icecast2-installed-lightgrey?logo=castorama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Installed_Tool-blue?logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-Web_UI-0db7ed?logo=portainer&logoColor=white)
+![Icecast2](https://img.shields.io/badge/Icecast2-Streaming_Server-lightgrey?logo=music&logoColor=white)
 ![cURL](https://img.shields.io/badge/cURL-Data_Transfer-073551?logo=curl&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Shell_Scripting-4EAA25?logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
-![MeTube](https://img.shields.io/badge/MeTube-YouTube%20Downloader-red?logo=youtube)
-![HTML](https://img.shields.io/badge/HTML-Static_Pages-orange?logo=html5)
-![Nginx](https://img.shields.io/badge/Nginx-Web_Server-brightgreen?logo=nginx)
-![Liquidsoap](https://img.shields.io/badge/liquidsoap-v2.3.2-orange?logo=music&logoColor=white)
-![Cloudflared](https://img.shields.io/badge/Cloudflared-Tunnel-blue)
+![MeTube](https://img.shields.io/badge/MeTube-YouTube_Downloader-critical?logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Static_Pages-orange?logo=html5&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Web_Server-brightgreen?logo=nginx&logoColor=white)
+![Liquidsoap](https://img.shields.io/badge/Liquidsoap-v2.3.2-orange?logo=music&logoColor=white)
+![Cloudflared](https://img.shields.io/badge/Cloudflared-Tunnel-blue?logo=cloudflare&logoColor=white)
+![FileBrowser](https://img.shields.io/badge/FileBrowser-Web_File_Manager-blue?logo=files&logoColor=white)
 
 
 ## Instalar um Editor de Texto
